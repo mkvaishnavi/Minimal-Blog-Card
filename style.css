@@ -1,0 +1,53 @@
+body{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.card{
+    width: 350px;
+    border-radius: 15px;
+    box-shadow: 8px 8px 20px 0px rgba(85, 85, 85, 0.08);
+    background-color: white;
+    overflow: hidden;
+}
+.container{
+    padding: 20px;
+}
+img{
+    width: 100%;
+}
+.design{
+    background-color: #f2e8ff;
+    padding: 4px 20px;
+    border-radius: 20px;
+    display: inline-block;
+    color: #7c3aed;
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 0;
+}
+h1{
+    font-size: 24px;
+    margin-top: 18px;
+    margin-bottom: 15px;
+}
+.description{
+    color: #6b7280;
+    line-height: 1.6;
+    font-size: 15px;
+}
+
+hr{
+    border: none;
+    border-top: 1px solid #e5e7eb;
+    margin: 20px 0;
+}
+
+.author{
+    color: #555;
+    font-size: 14px;
+}
