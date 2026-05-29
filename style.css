@@ -13,12 +13,14 @@ body{
     box-shadow: 8px 8px 20px 0px rgba(85, 85, 85, 0.08);
     background-color: white;
     overflow: hidden;
+    padding: 16px;
 }
 .container{
     padding: 20px;
 }
 img{
     width: 100%;
+    border-radius: 15px;
 }
 .design{
     background-color: #f2e8ff;
@@ -44,7 +46,7 @@ h1{
 hr{
     border: none;
     border-top: 1px solid #e5e7eb;
-    margin: 20px 0;
+    margin: 20px -40px;
 }
 
 .author{
